@@ -1,0 +1,13 @@
+Package: linux-headers-4.19-0-xiaomi-spes
+Source: linux-android-xiaomi-spes
+Version: 0.0.0+git20251005080806.aea90bc.main
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 7
+Depends: linux-image-4.19-0-xiaomi-spes (= 0.0.0+git20251005080806.aea90bc.main)
+Section: kernel
+Priority: optional
+Description: Linux kernel for Xiaomi Redmi Note 11 - Headers
+ This package contains the Linux kernel headers for the Xiaomi Redmi Note 11 device.
+X-Droidian-Vcs-Revision: aea90bc444f14c12fff170700c7f611efe23294e
+X-Droidian-Vcs-Url: https://github.com/LowlevelMo/halium_kernel_xiaomi_spes

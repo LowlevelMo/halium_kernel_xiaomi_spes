@@ -1,0 +1,5 @@
+linux-android-xiaomi-spes (0.0.0+git20251005080806.aea90bc.main+git20251107190012.6a50856.main) main; urgency=medium
+
+  * Add HALt's LED torch driver
+
+ -- Felix <86374591+LowlevelMo@users.noreply.github.com>  Fri, 07 Nov 2025 21:00:12 +0200

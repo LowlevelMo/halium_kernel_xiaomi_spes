@@ -1,0 +1,4 @@
+746858dcae1fdc1d3f49c3158363db9a  boot/Image.gz-4.19-325-xiaomi-spes
+ee13590d0e03fc3471ed2ddc55931857  boot/System.map-4.19-325-xiaomi-spes
+c89761aedf9d5f88ecef3221a661140e  boot/config-4.19-325-xiaomi-spes
+cf74ccabb25f0b394f29b45c5cc00115  usr/share/doc/linux-image-4.19-325-xiaomi-spes/changelog.gz

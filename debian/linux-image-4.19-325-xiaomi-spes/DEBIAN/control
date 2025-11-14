@@ -1,0 +1,16 @@
+Package: linux-image-4.19-325-xiaomi-spes
+Source: linux-android-xiaomi-spes
+Version: 0.0.0+git20251005080806.aea90bc.main+git20251107190012.6a50856.main
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 23400
+Section: kernel
+Priority: optional
+Description: Linux kernel for Xiaomi Redmi Note 11
+ This package contains the Linux kernel for the Xiaomi Redmi Note 11 device.
+ .
+ Note: This package only ships the kernel image and modules, you should probably
+ look at the linux-bootimage-4.19-325-xiaomi-spes package for a bootimage suitable
+ for Android boot loaders.
+X-Droidian-Vcs-Revision: 6a508567fae888d37cee0151bff8adc20446c6e1
+X-Droidian-Vcs-Url: https://github.com/LowlevelMo/halium_kernel_xiaomi_spes

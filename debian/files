@@ -1,0 +1,7 @@
+linux-android-xiaomi-spes_0.0.0+git20251005080806.aea90bc.main+git20251107190012.6a50856.main_arm64.buildinfo kernel optional
+linux-bootimage-4.19-325-xiaomi-spes_0.0.0+git20251005080806.aea90bc.main+git20251107190012.6a50856.main_arm64.deb kernel optional
+linux-bootimage-xiaomi-spes_0.0.0+git20251005080806.aea90bc.main+git20251107190012.6a50856.main_arm64.deb kernel optional
+linux-headers-4.19-325-xiaomi-spes_0.0.0+git20251005080806.aea90bc.main+git20251107190012.6a50856.main_arm64.deb kernel optional
+linux-headers-xiaomi-spes_0.0.0+git20251005080806.aea90bc.main+git20251107190012.6a50856.main_arm64.deb kernel optional
+linux-image-4.19-325-xiaomi-spes_0.0.0+git20251005080806.aea90bc.main+git20251107190012.6a50856.main_arm64.deb kernel optional
+linux-image-xiaomi-spes_0.0.0+git20251005080806.aea90bc.main+git20251107190012.6a50856.main_arm64.deb kernel optional

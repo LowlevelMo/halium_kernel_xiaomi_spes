@@ -1,0 +1,4 @@
+b2ffc31ce04f6773c92b74a37630cfd0  boot/boot.img-4.19-325-xiaomi-spes
+5181c708cfaae71e1a1c9fca6dcd7fa7  boot/recovery.img-4.19-325-xiaomi-spes
+2fde56d5c05e1e36e4ed232bad5fca5f  lib/flash-bootimage/4.19-325-xiaomi-spes.conf
+cf74ccabb25f0b394f29b45c5cc00115  usr/share/doc/linux-bootimage-4.19-325-xiaomi-spes/changelog.gz
